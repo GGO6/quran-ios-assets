@@ -1,0 +1,307 @@
+{
+    "reciters": [
+        {
+            "id": "afs",
+            "name": "مشاري راشد العفاسي",
+            "nameEnglish": "Mishary Rashid Alafasy",
+            "server": "https://server8.mp3quran.net/afs/",
+            "ayahServer": "https://everyayah.com/data/Alafasy_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "الكويت"
+        },
+        {
+            "id": "a_huth",
+            "name": "أحمد الحذيفي",
+            "nameEnglish": "Ahmed Al-Huthaify",
+            "server": "https://server8.mp3quran.net/ahmad_huth/",
+            "ayahServer": "https://everyayah.com/data/Hudhaify_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "ali_huth",
+            "name": "علي الحذيفي",
+            "nameEnglish": "Ali Al-Huthaify",
+            "server": "https://server9.mp3quran.net/hthfi/",
+            "ayahServer": "https://everyayah.com/data/Hudhaify_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "basit",
+            "name": "عبد الباسط عبد الصمد",
+            "nameEnglish": "Abdul Basit Abdul Samad",
+            "server": "https://server7.mp3quran.net/basit/",
+            "ayahServer": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "bna",
+            "name": "محمود علي البنا",
+            "nameEnglish": "Mahmoud Ali Al-Banna",
+            "server": "https://server8.mp3quran.net/bna/",
+            "ayahServer": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "minsh",
+            "name": "محمد صديق المنشاوي",
+            "nameEnglish": "Mohamed Siddiq Al-Minshawi",
+            "server": "https://server10.mp3quran.net/minsh/",
+            "ayahServer": "https://everyayah.com/data/Minshawy_Murattal_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "husr",
+            "name": "محمود خليل الحصري",
+            "nameEnglish": "Mahmoud Khalil Al-Husary",
+            "server": "https://server13.mp3quran.net/husr/",
+            "ayahServer": "https://everyayah.com/data/Husary_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "s_gmd",
+            "name": "سعد الغامدي",
+            "nameEnglish": "Saad Al-Ghamdi",
+            "server": "https://server7.mp3quran.net/s_gmd/",
+            "ayahServer": "https://everyayah.com/data/Ghamadi_40kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "sds",
+            "name": "عبد الرحمن السديس",
+            "nameEnglish": "Abdul Rahman Al-Sudais",
+            "server": "https://server11.mp3quran.net/sds/",
+            "ayahServer": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "shur",
+            "name": "سعود الشريم",
+            "nameEnglish": "Saud Al-Shuraim",
+            "server": "https://server7.mp3quran.net/shur/",
+            "ayahServer": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "maher",
+            "name": "ماهر المعيقلي",
+            "nameEnglish": "Maher Al-Muaiqly",
+            "server": "https://server12.mp3quran.net/maher/",
+            "ayahServer": "https://everyayah.com/data/Maher_AlMuaiqly_64kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "yasser",
+            "name": "ياسر الدوسري",
+            "nameEnglish": "Yasser Al-Dosari",
+            "server": "https://server11.mp3quran.net/yasser/",
+            "ayahServer": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "frs_a",
+            "name": "فارس عباد",
+            "nameEnglish": "Fares Abbad",
+            "server": "https://server8.mp3quran.net/frs_a/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "bsfr",
+            "name": "بندر بليلة",
+            "nameEnglish": "Bandar Baleela",
+            "server": "https://server8.mp3quran.net/bsfr/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "nasser_alqatami",
+            "name": "ناصر القطامي",
+            "nameEnglish": "Nasser Al-Qatami",
+            "server": "https://server6.mp3quran.net/qtm/",
+            "ayahServer": "https://everyayah.com/data/Nasser_Alqatami_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "hani",
+            "name": "هاني الرفاعي",
+            "nameEnglish": "Hani Ar-Rifai",
+            "server": "https://server8.mp3quran.net/hani/",
+            "ayahServer": "https://everyayah.com/data/Hani_Rifai_192kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "tablawi",
+            "name": "محمد الطبلاوي",
+            "nameEnglish": "Mohamed Al-Tablawi",
+            "server": "https://server12.mp3quran.net/tblawi/",
+            "ayahServer": "https://everyayah.com/data/Mohammad_al_Tablaway_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "idrees",
+            "name": "إدريس أبكر",
+            "nameEnglish": "Idrees Abkar",
+            "server": "https://server6.mp3quran.net/abkr/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "الإمارات"
+        },
+        {
+            "id": "islam",
+            "name": "إسلام صبحي",
+            "nameEnglish": "Islam Sobhi",
+            "server": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "مصر",
+            "availableSurahs": [1, 2, 3, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+            "alternativeServers": {
+            }
+        },
+        {
+            "id": "jleel",
+            "name": "خالد الجليل",
+            "nameEnglish": "Khalid Al-Jaleel",
+            "server": "https://server10.mp3quran.net/jleel/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "jhn",
+            "name": "عبدالله عواد الجهني",
+            "nameEnglish": "Abdullah Awad Al-Juhani",
+            "server": "https://server13.mp3quran.net/jhn/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "jbrl",
+            "name": "محمد جبريل",
+            "nameEnglish": "Muhammad Jibreel",
+            "server": "https://server8.mp3quran.net/jbrl/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "مصر"
+        },
+        {
+            "id": "s_bud",
+            "name": "صلاح البدير",
+            "nameEnglish": "Salah Al-Budair",
+            "server": "https://server6.mp3quran.net/s_bud/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "shatri",
+            "name": "أبو بكر الشاطري",
+            "nameEnglish": "Abu Bakr Al-Shatri",
+            "server": "https://server11.mp3quran.net/shatri/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "a_klb",
+            "name": "عادل الكلباني",
+            "nameEnglish": "Adel Al-Kalbani",
+            "server": "https://server8.mp3quran.net/a_klb/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "lhdan",
+            "name": "محمد اللحيدان",
+            "nameEnglish": "Muhammad Al-Luhaidan",
+            "server": "https://server8.mp3quran.net/lhdan/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "ibrahim_dosri",
+            "name": "إبراهيم الدوسري",
+            "nameEnglish": "Ibrahim Al-Dossari",
+            "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/",
+            "ayahServer": "",
+            "supportsAyahAudio": false,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "ajm",
+            "name": "أحمد بن علي العجمي",
+            "nameEnglish": "Ahmed Al-Ajmi",
+            "server": "https://server10.mp3quran.net/ajm/128/",
+            "ayahServer": "https://everyayah.com/data/ahmed_ibn_ali_al-ajamy_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "ayyub",
+            "name": "محمد أيوب",
+            "nameEnglish": "Muhammad Ayyub",
+            "server": "https://server8.mp3quran.net/ayyub/",
+            "ayahServer": "https://everyayah.com/data/Muhammad_Ayyoub_128kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        },
+        {
+            "id": "a_jbr",
+            "name": "علي جابر",
+            "nameEnglish": "Ali Jaber",
+            "server": "https://server11.mp3quran.net/a_jbr/",
+            "ayahServer": "https://everyayah.com/data/Ali_Jaber_64kbps/",
+            "supportsAyahAudio": true,
+            "style": "حفص عن عاصم",
+            "country": "السعودية"
+        }
+    ]
+}
